@@ -1,11 +1,14 @@
+# Behaviour Tree for Unity with a graphical base. NPCs and different states.
 
-# Behaviour Tree para Unity con una base gráfica. NPCs y diferentes estados.
+ - AI moves through the scenario following "waypoints".
+ - Contains a hunger meter. If it is < 50%, the AI collects food and feeds itself.
+ - Food regenerates after 10 seconds
+![alt text](https://ibb.co/r73dXV0)
+![alt text](https://ibb.co/gmchhM9)
+ 
+ Art / 3D: Sara Triviño.
+ Logic and Programming: Daniel Guerra
+ 
+ This project is part of a university work. Its purpose is not commercial and can be used for research or development.
 
- - la IA se mueve por el escenario siguiento "waypoints"
- - Contiene un medidor de hambre. Si es < 50%, la IA recolecta comida y se alimenta.
- - La comida se regenera tras 10 segundos
- 
- Arte / 3D: Sara Triviño.
- Lógica y Programación: Daniel Guerra
- 
- Este proyecto es parte de un trabajo universitario. Su fin no es comercial y puede ser usado para investigación o desarrollo.
+
