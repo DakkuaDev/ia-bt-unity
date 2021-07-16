@@ -3,8 +3,8 @@
  - AI moves through the scenario following "waypoints".
  - Contains a hunger meter. If it is < 50%, the AI collects food and feeds itself.
  - Food regenerates after 10 seconds
-![alt text](https://ibb.co/r73dXV0)
-![alt text](https://ibb.co/gmchhM9)
+
+![Captura](https://user-images.githubusercontent.com/61831013/125984565-3627ae82-1714-4c72-b103-15cc43f92083.PNG)
  
  Art / 3D: Sara Triviño.
  Logic and Programming: Daniel Guerra
