@@ -9,7 +9,7 @@ Behaviour Tree for Unity with a graphical base. NPCs and different states.
 
 ![Captura](https://user-images.githubusercontent.com/61831013/125984565-3627ae82-1714-4c72-b103-15cc43f92083.PNG)
 
-Author: Daniel Guerra Gallardo
+Author: Daniel Guerra Gallardo & Sara Martinez Triviño
 
 # Usefull Links
 
